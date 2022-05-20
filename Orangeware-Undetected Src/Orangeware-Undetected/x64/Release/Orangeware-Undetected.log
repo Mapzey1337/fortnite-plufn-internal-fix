@@ -1,0 +1,199 @@
+﻿  [dllmain].cpp
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\Vector3.h(157,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\Vector3.h(157,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\Vector3.h(157,120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\Vector3.h(157,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\Protection\[CustomXor].h(243,9): warning C4068: unknown pragma 'onne'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(32,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(32,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(439,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(439,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(725,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(981,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(981,127): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(981,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(986,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(986,115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(986,157): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(986,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1041,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1088,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1143,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1276,19): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1281,40): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1290,18): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1326,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1327,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1330,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1330,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1330,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1330,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1331,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1331,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1331,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1331,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1332,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1332,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1332,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1332,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1333,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1333,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1333,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1333,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1334,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1334,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1334,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1334,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1335,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1335,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1335,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1335,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1336,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1336,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1336,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1336,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1337,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1337,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1337,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\SDK.h(1337,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(53,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(54,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(56,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(56,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(56,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(56,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(58,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(58,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(58,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(58,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(60,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(60,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(60,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(60,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(62,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(62,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(62,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(62,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(64,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(64,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(64,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(64,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(66,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(66,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(66,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(66,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(68,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(68,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(68,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(68,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(70,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(70,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(70,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(70,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(445,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(511,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(511,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(534,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(553,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(576,66): warning C4305: 'argument': truncation from 'double' to 'WriteT'
+          with
+          [
+              WriteT=float
+          ]
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(725,38): warning C4305: 'argument': truncation from 'double' to 'bool'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(753,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(754,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(755,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(756,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(757,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(758,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(759,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(760,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(761,71): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(762,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(763,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(764,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(765,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(766,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(902,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(902,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,47): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,47): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,56): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,89): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,102): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,102): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,116): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,116): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,128): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,128): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,141): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,141): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,152): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,152): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,164): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,164): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,177): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,177): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,191): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,191): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,203): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,203): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,216): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,216): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,228): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,228): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,241): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,241): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,259): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,259): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,278): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(920,278): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1117,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1133,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1133,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1133,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1133,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1727,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1728,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1816,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1845,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1944,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1944,9): message : consider using '%llx' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1944,9): message : consider using '%Ix' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1944,9): message : consider using '%I64x' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1948,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1948,9): message : consider using '%llx' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1948,9): message : consider using '%Ix' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1948,9): message : consider using '%I64x' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1951,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1951,9): message : consider using '%llx' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1951,9): message : consider using '%Ix' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1951,9): message : consider using '%I64x' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1955,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1955,9): message : consider using '%llx' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1955,9): message : consider using '%Ix' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1955,9): message : consider using '%I64x' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1962,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1962,9): message : consider using '%llx' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1962,9): message : consider using '%Ix' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1962,9): message : consider using '%I64x' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1966,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uintptr_t'
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1966,9): message : consider using '%llx' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1966,9): message : consider using '%Ix' in the format string
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1966,9): message : consider using '%I64x' in the format string
+  Generating code
+C:\Users\alfie\Desktop\Orangeware-Undetected Src\Orangeware-Undetected\[dllmain].cpp(1162): warning C4715: 'ActorLoop': not all control paths return a value
+  442 of 2057 functions (21.5%) were compiled, the rest were copied from previous compilation.
+    120 functions were new in current compilation
+    28 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Orangeware-Undetected.vcxproj -> C:\Users\alfie\Desktop\Orangeware-Undetected Src\x64\Release\orange.dll
